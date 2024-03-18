@@ -1,4 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Sista inlämning - Labb 3
+
+För G
+
+Skapa ett projekt i GitHub och länka till projektet när du lämnar in
+
+Sätt upp ett Next.js projekt
+
+Minst 8 funktionskomponenter
+
+Hämta data från extern sida
+Valfritt att använda REST API eller GraphQL
+
+Skapa minst 3 statiskt genererade sidor med getStaticProps()
+(Det är OK att det är 1 sida som genererar minst 3 statiska sidor)
+
+Skriv minst 3 test som passerar om man skriver "yarn test" / "npm test"
+
+Deploya er React applikation till vercel.com
+
+För VG
+
+Minst 12 komponenter
+
+Skriv minst 5 test som passerar om man skriver "yarn test" / "npm test"
+
+Enhetligt formaterad kod
 
 ## Getting Started
 
@@ -24,8 +50,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-  [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+-  [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
